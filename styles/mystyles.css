@@ -1,0 +1,39 @@
+.aboutme {
+    padding-left: 72px; 
+    margin: 0px;
+}
+
+.indexmystyle {
+    font-size: x-large ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+}
+
+
+.indexpink {
+    font-size: medium;
+    color: pink;
+}
+
+
+.indexgreen{ 
+font-style: italic;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.keaton {
+    color: blue; 
+    text-align: center; 
+}
+
+.resume {
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.footer {
+    text-align: center;
+}
